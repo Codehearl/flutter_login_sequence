@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1059357074376",
+    "project_id": "free-flutter-course-app",
+    "storage_bucket": "free-flutter-course-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059357074376:android:3cb64b52bd4810329c96fd",
+        "android_client_info": {
+          "package_name": "com.example.course_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059357074376-75l7dv3eg37cbm0tbb886o94tcjttpbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXeFm7AdomYSAwYDt9KzKvN2uCbcz8t-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059357074376-75l7dv3eg37cbm0tbb886o94tcjttpbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059357074376-li6689m2hajcsbq7ro68ofhj6c2gelrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
